@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InfoLangit</string>
+
+    <!-- Navigation Labels -->
+    <string name="home">Home</string>
+    <string name="weather">Weather</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Selamat Datang di Aplikasi InfoLangit</string>
+    <string name="welcome_subtitle">Jelajahi informasi langit dengan mudah dan cepat!</string>
+</resources>
