@@ -1,8 +1,8 @@
 # Aplikasi-InfoLangit
 
-Nama Aplikasi : Info Langit
+## Info Langit
 
-Anggota : 
+## Anggota : 
 EIDENYOST DUNATOWS MOMUAT WAHANI - 220211060152
 
 KEVIN FRYFO WINSTONE RIMPER - 220211060364
